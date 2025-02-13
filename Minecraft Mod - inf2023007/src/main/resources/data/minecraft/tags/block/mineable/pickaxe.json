@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "weatherswordmod:azurite_block",
+    "weatherswordmod:raw_azurite_block",
+    "weatherswordmod:azurite_ore",
+    "weatherswordmod:azurite_deepslate_ore",
+    "weatherswordmod:tiger_eye_ore",
+    "weatherswordmod:tiger_eye_deepslate_ore",
+    "weatherswordmod:tiger_eye_block"
+  ]
+}

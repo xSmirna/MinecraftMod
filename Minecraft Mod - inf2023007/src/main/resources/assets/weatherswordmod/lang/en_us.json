@@ -1,0 +1,18 @@
+{
+  "item.weatherswordmod.azurite": "Azurite",
+  "item.weatherswordmod.raw_azurite": "Raw Azurite",
+  "item.weatherswordmod.tiger_eye": "Tiger Eye",
+
+  "block.weatherswordmod.azurite_block": "Block of Azurite",
+  "block.weatherswordmod.raw_azurite_block": "Raw Azurite",
+  "block.weatherswordmod.azurite_ore": "Azurite Ore",
+  "block.weatherswordmod.azurite_deepslate_ore": "Azurite Deepslate Ore",
+  "block.weatherswordmod.tiger_eye_ore": "Tiger Eye Ore",
+  "block.weatherswordmod.tiger_eye_deepslate_ore": "Tiger Eye Deepslate Ore",
+  "block.weatherswordmod.tiger_eye_block": "Block of Tiger Eye",
+
+  "creativetab.weatherswordmod.weathermod_items": "Weather Mod Items",
+  "creativetab.weatherswordmod.weathermod_block": "Weather Mod Blocks",
+
+  "item.weatherswordmod.weather_sword": "Weather Sword"
+}

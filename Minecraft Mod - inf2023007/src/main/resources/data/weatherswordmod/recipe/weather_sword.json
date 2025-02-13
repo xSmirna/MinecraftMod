@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "weatherswordmod:azurite"
+    },
+    "*": {
+      "item": "weatherswordmod:tiger_eye"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+  "#",
+  "*",
+  "/"
+],
+  "result": {
+    "count": 1,
+    "id": "weatherswordmod:weather_sword"
+  }
+}

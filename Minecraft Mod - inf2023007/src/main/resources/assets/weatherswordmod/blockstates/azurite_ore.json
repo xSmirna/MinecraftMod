@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "weatherswordmod:block/azurite_ore"
+    }
+  }
+}
